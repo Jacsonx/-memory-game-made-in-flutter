@@ -1,6 +1,6 @@
 # jogo_da_memoria
 
-A new Flutter project.
+An simple memory game made in flutter
 
 ## Getting Started
 
